@@ -16,6 +16,8 @@ Potência da Usina a ser instalada
 
 Alimentador específico (se deixar o padrão 'alimentador mais próximo' o programa irá conectar a usina no equipamento mais próximo das coordenadas fornecidas. porém pode ser alterado para o alimentador desejado. exemplo: 'TDE06' ou 'PAA01'.
 
+Deve ser alterado no código fonte os caminhos para as pastas que estão disponíveis neste repositório, para o diretório na qual as pastas estarão em seu computador.
+
 Mais informações estão descritas no Trabalho de Conclusão de Curso feito por João José Medeiros de Figueiredo.
 
 O programa teve participação dos seguintes programadores, ao longo dos anos de 2021 e 2022:
