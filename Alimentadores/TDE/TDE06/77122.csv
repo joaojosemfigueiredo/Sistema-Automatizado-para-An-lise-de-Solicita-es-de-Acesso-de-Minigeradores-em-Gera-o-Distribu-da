@@ -1,0 +1,25 @@
+Data de Emissão:;22/dez/2022
+Base de dados:;GENCEL_REL
+Matrícula:;e018071
+
+Alimentador.Código do Alimentador;Transformador de Distribuição Subterrâneo.Identificador do Objeto;Transformador de Distribuição Subterrâneo.Número Operacional;Transformador de Distribuição Subterrâneo.Coordenada X;Transformador de Distribuição Subterrâneo.Coordenada Y;Transformador de Distribuição Subterrâneo.Potência Nominal (kVA);Transformador de Distribuição Subterrâneo.Demanda Total (kVA);Transformador de Distribuição Subterrâneo.Potência instalada GD total (W);Transformador de Distribuição Subterrâneo.Tensão do TAP ajustado (kV);Transformador de Distribuição Subterrâneo.Proprietário
+TDE06;3668;72180;744028.68;6944399.57;150;18;0;16;2 - Particular;
+TDE06;3669;71920;744083.82;6944372.66;150;62.6;0;16;2 - Particular;
+TDE06;3747;72236;744361.65;6945090.11;112.5;37.9;0;16;2 - Particular;
+TDE06;3748;72659;744302.45;6945093.02;225;138.3;0;16;2 - Particular;
+TDE06;3804;79997;744877.78;6944580.35;5570;1510;0;16;2 - Particular;
+TDE06;4194;72734;744450.45;6945050.41;225;44.4;0;17;2 - Particular;
+TDE06;4304;72747;744682.174985185;6944847.19323384;112.5;18;0;16;2 - Particular;
+TDE06;4374;73280;744557.79;6945046.21;750;45.1;0;16;2 - Particular;
+TDE06;3878;72419;744564.320858616;6944919.37379049;225;12.3;0;16;2 - Particular;
+TDE06;3886;72023;744868;6944802.31;150;13.1;0;17;2 - Particular;
+TDE06;5448;73495;744407.15;6945060.92;500;71.2;0;16;2 - Particular;
+TDE06;5973;73752;744568.63;6944982.17;500;49.3;0;16;2 - Particular;
+TDE06;242002;85268;744627.529416899;6944857.00109477;3175;0.1;75000;17;2 - Particular;
+TDE06;226648;23609;744681.969048279;6945030.6126834;750;106.3;0; ;1 - Celesc;
+TDE06;229752;72228;743864.241571984;6944179.50665077;225;83.5;0;17;2 - Particular;
+TDE06;226750;23610;744681.969048279;6945030.6126834;750;72.3;0; ;1 - Celesc;
+TDE06;341;22324;744169.35;6944896.43;112.5;53.1;0;17;1 - Celesc;
+
+ ; ; ; ; ; ; ; ; ; ;
+ ; ; ; ; ; ; ; ; ; ;
